@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dominic-Cooper
 - 👀 Student in RUC, Major in Computer Science & Technology 
 - 😋 Just do it & Just lose it
-- 🛸 WeChat Official Account: 一只钾离子
-- 📫 Please contact me with: aloha_mail@163.com
+- 🛸 WeChat Official Account/Zhihu/bilibili:  一只钾离子
+- 📫 You can contact me with: aloha_mail@163.com
 
 <!---
 Dominic-Cooper/Dominic-Cooper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
