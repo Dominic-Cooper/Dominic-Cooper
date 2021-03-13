@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Dominic-Cooper
-- 👀 Student, Computer Science & Technology, School of Infomation, RUC
-- 💞️ Try anything I want
+- 👀 Student in RUC, Major in Computer Science & Technology 
+- 😋 Just do it & Just lose it
+- 🛸 WeChat Official Account: 一只钾离子
 - 📫 Please contact me with: aloha_mail@163.com
 
 <!---
