@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dominic-Cooper
-- 👀 Student in RUC, Major in Computer Science & Technology 
-- 😋 Just do it & Just lose it
-- 🛸 WeChat Official Account/Zhihu/bilibili:  一只钾离子
+- 👀 Student in RUC, Bachelor: Computer Science & Technology, Master: Electronic information(in progress)
+- 😋 Reading and walking like farming.
 - 📫 You can contact me with: aloha_mail@163.com
 
 <!---
